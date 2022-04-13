@@ -8,9 +8,9 @@
   "static/js/2.ae61b831.chunk.js.map": "/comrades/static/js/2.ae61b831.chunk.js.map",
   "runtime~main.js": "/comrades/static/js/runtime~main.a962dce7.js",
   "runtime~main.js.map": "/comrades/static/js/runtime~main.a962dce7.js.map",
-  "static/media/style.css": "/comrades/static/media/HomeSlider22.d33d3502.jpg",
+  "static/media/style.css": "/comrades/static/media/counter-bg.7b1cedd0.jpg",
   "static/media/company.png": "/comrades/static/media/company.0b452413.png",
-  "static/media/aboutpage.css": "/comrades/static/media/team-bg.db6b63cb.jpg",
+  "static/media/aboutpage.css": "/comrades/static/media/portfolio-bg.dd0bd974.jpg",
   "static/media/service1.jpg": "/comrades/static/media/service1.cf2090ba.jpg",
   "static/media/service2.jpg": "/comrades/static/media/service2.8cc147a0.jpg",
   "static/media/service3.jpg": "/comrades/static/media/service3.6da1724f.jpg",
@@ -48,6 +48,6 @@
   "static/media/headerslider.css": "/comrades/static/media/HomeSlider.d177e2c4.jpg",
   "static/css/main.fe624cb6.chunk.css.map": "/comrades/static/css/main.fe624cb6.chunk.css.map",
   "index.html": "/comrades/index.html",
-  "precache-manifest.da6fe49a5d90055593ba96d95f9e1a7b.js": "/comrades/precache-manifest.da6fe49a5d90055593ba96d95f9e1a7b.js",
+  "precache-manifest.6c5d78cdc2bb9825a1bdc22626e286b0.js": "/comrades/precache-manifest.6c5d78cdc2bb9825a1bdc22626e286b0.js",
   "service-worker.js": "/comrades/service-worker.js"
 }
