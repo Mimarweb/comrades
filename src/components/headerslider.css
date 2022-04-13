@@ -1,0 +1,45 @@
+img{
+    height: 700px;
+    width: 100%;
+    object-fit: cover;
+    opacity: 0.4;
+}
+.homeslider{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 700px;
+    background-color: #000;
+    background-image: url('../Assets/HomeSlider.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-slider{
+    padding: 225px 50px;
+    
+}
+.header-desc{
+    padding: 50px;
+
+}
+.header-desc h1{
+    color: #fff;
+}
+.desc-head{
+   
+}
+.desc-head p{
+    color: #fff;
+    font-size: 18px;
+}
+.head-btn button{
+    border: 1px solid #fff;
+    color: #fff;
+}
+.head-btn button:hover{
+    border: 1px solid #fff;
+    color: #40858C;
+    background-color: #fff;
+}
