@@ -36,16 +36,16 @@ self.__precacheManifest = [
     "url": "/comrades/static/media/company.0b452413.png"
   },
   {
-    "revision": "603d5fe753a0c7b6722a4b1a6df35cb0",
-    "url": "/comrades/static/media/service-bg.603d5fe7.jpg"
+    "revision": "ee71f72ccdfa4205cf2bfa17e4eef433",
+    "url": "/comrades/static/media/about-bg.ee71f72c.jpg"
   },
   {
     "revision": "dd0bd974be9072c390d576642ab753ad",
     "url": "/comrades/static/media/portfolio-bg.dd0bd974.jpg"
   },
   {
-    "revision": "ee71f72ccdfa4205cf2bfa17e4eef433",
-    "url": "/comrades/static/media/about-bg.ee71f72c.jpg"
+    "revision": "603d5fe753a0c7b6722a4b1a6df35cb0",
+    "url": "/comrades/static/media/service-bg.603d5fe7.jpg"
   },
   {
     "revision": "450f54c36d05ec1fd9954b4d74818466",
