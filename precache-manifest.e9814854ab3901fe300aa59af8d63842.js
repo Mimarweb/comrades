@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2e883afbde1783b0f681",
+    "revision": "9974f1040c1043ced17e",
     "url": "/comrades/static/css/main.fe624cb6.chunk.css"
   },
   {
-    "revision": "2e883afbde1783b0f681",
-    "url": "/comrades/static/js/main.2e883afb.chunk.js"
+    "revision": "9974f1040c1043ced17e",
+    "url": "/comrades/static/js/main.9974f104.chunk.js"
   },
   {
     "revision": "e0951f3e1edda8b7f479",
@@ -36,20 +36,20 @@ self.__precacheManifest = [
     "url": "/comrades/static/media/company.0b452413.png"
   },
   {
-    "revision": "ee71f72ccdfa4205cf2bfa17e4eef433",
-    "url": "/comrades/static/media/about-bg.ee71f72c.jpg"
-  },
-  {
-    "revision": "dd0bd974be9072c390d576642ab753ad",
-    "url": "/comrades/static/media/portfolio-bg.dd0bd974.jpg"
-  },
-  {
     "revision": "603d5fe753a0c7b6722a4b1a6df35cb0",
     "url": "/comrades/static/media/service-bg.603d5fe7.jpg"
   },
   {
+    "revision": "ee71f72ccdfa4205cf2bfa17e4eef433",
+    "url": "/comrades/static/media/about-bg.ee71f72c.jpg"
+  },
+  {
     "revision": "450f54c36d05ec1fd9954b4d74818466",
     "url": "/comrades/static/media/contact-bg.450f54c3.jpg"
+  },
+  {
+    "revision": "dd0bd974be9072c390d576642ab753ad",
+    "url": "/comrades/static/media/portfolio-bg.dd0bd974.jpg"
   },
   {
     "revision": "db6b63cbbc08019b524dda3d89201697",
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "/comrades/static/media/HomeSlider.d177e2c4.jpg"
   },
   {
-    "revision": "954d1c90fa7957e81c2c0ba8da606770",
+    "revision": "904c31e9728f40a7b86b3de0389bf920",
     "url": "/comrades/index.html"
   }
 ];

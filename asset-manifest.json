@@ -1,7 +1,7 @@
 {
   "main.css": "/comrades/static/css/main.fe624cb6.chunk.css",
-  "main.js": "/comrades/static/js/main.2e883afb.chunk.js",
-  "main.js.map": "/comrades/static/js/main.2e883afb.chunk.js.map",
+  "main.js": "/comrades/static/js/main.9974f104.chunk.js",
+  "main.js.map": "/comrades/static/js/main.9974f104.chunk.js.map",
   "static/js/1.e0951f3e.chunk.js": "/comrades/static/js/1.e0951f3e.chunk.js",
   "static/js/1.e0951f3e.chunk.js.map": "/comrades/static/js/1.e0951f3e.chunk.js.map",
   "static/js/2.ae61b831.chunk.js": "/comrades/static/js/2.ae61b831.chunk.js",
@@ -48,6 +48,6 @@
   "static/media/headerslider.css": "/comrades/static/media/HomeSlider.d177e2c4.jpg",
   "static/css/main.fe624cb6.chunk.css.map": "/comrades/static/css/main.fe624cb6.chunk.css.map",
   "index.html": "/comrades/index.html",
-  "precache-manifest.77b3bc19b5ee63516811a152bff21030.js": "/comrades/precache-manifest.77b3bc19b5ee63516811a152bff21030.js",
+  "precache-manifest.e9814854ab3901fe300aa59af8d63842.js": "/comrades/precache-manifest.e9814854ab3901fe300aa59af8d63842.js",
   "service-worker.js": "/comrades/service-worker.js"
 }
