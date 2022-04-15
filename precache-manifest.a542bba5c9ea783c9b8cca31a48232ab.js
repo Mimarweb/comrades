@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6b9379f6cad325eb1df9",
-    "url": "/comrades/static/css/main.e1ff22bf.chunk.css"
+    "revision": "18b9e08d5fe61c6c01c0",
+    "url": "/comrades/static/css/main.f5765916.chunk.css"
   },
   {
-    "revision": "6b9379f6cad325eb1df9",
-    "url": "/comrades/static/js/main.6b9379f6.chunk.js"
+    "revision": "18b9e08d5fe61c6c01c0",
+    "url": "/comrades/static/js/main.18b9e08d.chunk.js"
   },
   {
     "revision": "52a192d8b6d7e13699b4",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/comrades/static/js/runtime~main.d8075162.js"
   },
   {
-    "revision": "7b1cedd0f4ee2b04cd1cd82bbcb860cd",
-    "url": "/comrades/static/media/counter-bg.7b1cedd0.jpg"
-  },
-  {
     "revision": "0876dd7c0d046ecf63cef4302ac0f687",
     "url": "/comrades/static/media/services-bg.0876dd7c.jpg"
+  },
+  {
+    "revision": "7b1cedd0f4ee2b04cd1cd82bbcb860cd",
+    "url": "/comrades/static/media/counter-bg.7b1cedd0.jpg"
   },
   {
     "revision": "d33d35027efea781cb28e51a62dff456",
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "/comrades/static/media/executive.9a52f5cc.jpg"
   },
   {
-    "revision": "d4858f3b9f7834f0a32160f01b7872ba",
+    "revision": "0c3af6e49b741722e0d143d812eb5d5d",
     "url": "/comrades/index.html"
   }
 ];
