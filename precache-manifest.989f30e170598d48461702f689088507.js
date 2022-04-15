@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5e540e9b735444b2eb48",
-    "url": "/comrades/static/css/main.82671698.chunk.css"
+    "revision": "6b9379f6cad325eb1df9",
+    "url": "/comrades/static/css/main.e1ff22bf.chunk.css"
   },
   {
-    "revision": "5e540e9b735444b2eb48",
-    "url": "/comrades/static/js/main.5e540e9b.chunk.js"
+    "revision": "6b9379f6cad325eb1df9",
+    "url": "/comrades/static/js/main.6b9379f6.chunk.js"
   },
   {
     "revision": "52a192d8b6d7e13699b4",
@@ -36,24 +36,24 @@ self.__precacheManifest = [
     "url": "/comrades/static/media/company.0b452413.png"
   },
   {
-    "revision": "450f54c36d05ec1fd9954b4d74818466",
-    "url": "/comrades/static/media/contact-bg.450f54c3.jpg"
+    "revision": "603d5fe753a0c7b6722a4b1a6df35cb0",
+    "url": "/comrades/static/media/service-bg.603d5fe7.jpg"
+  },
+  {
+    "revision": "ee71f72ccdfa4205cf2bfa17e4eef433",
+    "url": "/comrades/static/media/about-bg.ee71f72c.jpg"
   },
   {
     "revision": "dd0bd974be9072c390d576642ab753ad",
     "url": "/comrades/static/media/portfolio-bg.dd0bd974.jpg"
   },
   {
-    "revision": "603d5fe753a0c7b6722a4b1a6df35cb0",
-    "url": "/comrades/static/media/service-bg.603d5fe7.jpg"
+    "revision": "450f54c36d05ec1fd9954b4d74818466",
+    "url": "/comrades/static/media/contact-bg.450f54c3.jpg"
   },
   {
     "revision": "db6b63cbbc08019b524dda3d89201697",
     "url": "/comrades/static/media/team-bg.db6b63cb.jpg"
-  },
-  {
-    "revision": "ee71f72ccdfa4205cf2bfa17e4eef433",
-    "url": "/comrades/static/media/about-bg.ee71f72c.jpg"
   },
   {
     "revision": "cf2090ba78e7aa7e35aecb031d3ba6e3",
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "/comrades/static/media/executive.9a52f5cc.jpg"
   },
   {
-    "revision": "719740732713b99b06e751aef9663480",
+    "revision": "d4858f3b9f7834f0a32160f01b7872ba",
     "url": "/comrades/index.html"
   }
 ];

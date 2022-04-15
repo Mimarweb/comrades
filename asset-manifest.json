@@ -1,7 +1,7 @@
 {
-  "main.css": "/comrades/static/css/main.82671698.chunk.css",
-  "main.js": "/comrades/static/js/main.5e540e9b.chunk.js",
-  "main.js.map": "/comrades/static/js/main.5e540e9b.chunk.js.map",
+  "main.css": "/comrades/static/css/main.e1ff22bf.chunk.css",
+  "main.js": "/comrades/static/js/main.6b9379f6.chunk.js",
+  "main.js.map": "/comrades/static/js/main.6b9379f6.chunk.js.map",
   "static/js/1.52a192d8.chunk.js": "/comrades/static/js/1.52a192d8.chunk.js",
   "static/js/1.52a192d8.chunk.js.map": "/comrades/static/js/1.52a192d8.chunk.js.map",
   "static/js/2.de831e54.chunk.js": "/comrades/static/js/2.de831e54.chunk.js",
@@ -10,7 +10,7 @@
   "runtime~main.js.map": "/comrades/static/js/runtime~main.d8075162.js.map",
   "static/media/style.css": "/comrades/static/media/HomeSlider22.d33d3502.jpg",
   "static/media/company.png": "/comrades/static/media/company.0b452413.png",
-  "static/media/aboutpage.css": "/comrades/static/media/about-bg.ee71f72c.jpg",
+  "static/media/aboutpage.css": "/comrades/static/media/team-bg.db6b63cb.jpg",
   "static/media/service1.jpg": "/comrades/static/media/service1.cf2090ba.jpg",
   "static/media/service2.jpg": "/comrades/static/media/service2.8cc147a0.jpg",
   "static/media/service3.jpg": "/comrades/static/media/service3.6da1724f.jpg",
@@ -46,8 +46,8 @@
   "static/media/avt (6).jpg": "/comrades/static/media/avt (6).1a53da1d.jpg",
   "static/media/headerslider.css": "/comrades/static/media/HomeSlider.d177e2c4.jpg",
   "static/media/executive.jpg": "/comrades/static/media/executive.9a52f5cc.jpg",
-  "static/css/main.82671698.chunk.css.map": "/comrades/static/css/main.82671698.chunk.css.map",
+  "static/css/main.e1ff22bf.chunk.css.map": "/comrades/static/css/main.e1ff22bf.chunk.css.map",
   "index.html": "/comrades/index.html",
-  "precache-manifest.962fe2d28d38503d4130fdf47ea0d8fb.js": "/comrades/precache-manifest.962fe2d28d38503d4130fdf47ea0d8fb.js",
+  "precache-manifest.989f30e170598d48461702f689088507.js": "/comrades/precache-manifest.989f30e170598d48461702f689088507.js",
   "service-worker.js": "/comrades/service-worker.js"
 }
